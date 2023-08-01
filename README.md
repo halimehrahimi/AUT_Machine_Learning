@@ -1,2 +1,8 @@
 # AUT_Machine_Learning
-This repository contains my codes and reports for Machine Learning assignments of Amirkabir University of Technology.
+This repository contains my codes and reports for Machine Learning assignments at Amirkabir University of Technology.
+
+Homework 1: Regression
+Homework 2: KNN and Decision Tree
+Homework 3: Naive Bayes, Logistic Regression and Bayes Network
+Homework 4: SVM with and without Kernels
+Final: Clustering (K-means, Hierarchical, DB-Scan)
